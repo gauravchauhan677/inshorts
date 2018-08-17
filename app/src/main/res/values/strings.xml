@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Avengers</string>
+
+    <string name="slide_2_title">Uber loses $891 million in Q2 over Eats, India investments</string>
+    <string name="slide_2_desc">Uber has repoted an $891 million loss for the April-june period, with a revenue of $2.8 billion. Uber CEO Dara khosrowshahi said the company is"deliberately investing" over "big bets" like its food delivery platform. Uber Eats and congestion-free scooter services in India,Europe and the Middle-East. The ride_hailing startup has burned around $11 billion since its launch in 2009.</string>
+
+    <string name="slide_1_title">I would rather have it closer to reality if biopic is made: Aishwarya</string>
+    <string name="slide_1_desc">Actress Aishwarya Rai Bachchan, while taking about the possibility of a biopic or biografy on her, said,"It's important to share your story as it is. Maybe, I'd rather have it closer to reality than otherwise." She added, "if my life makes for a great story to tell pr watch on screen,why not!"</string>
+
+    <string name="slide_3_title">1971 no less than World Cup victory: Boman on Ajit demise</string>
+    <string name="slide_3_desc">Condoling the demise of Ajit Wadekar, former Team India Captain, actor Boman Irani tweeted,"1971 was no less than a world cup victory... you will be missed dear captain."Wadekar was the captain when India won its first-ever overseas Test series in 1971. Meanwhile, filmmaker kunal kohli tweeted,"This is truly sad news. An icon. A legend. Ajit Wadekar RIP".</string>
+
+    <string name="slide_4_title">14-yr-old Kerala boy becomes India 53rd Chess Grandmaster</string>
+    <string name="slide_4_desc">Kerala_born Nihal Sarin has become India 53rd Grandmaster after attaining his third and final GMNorm by drawing in the eighth round of Abu Dhabi Masters against Uzbekistan Temur Kuybokarov. The 14-year-old, who was the 2014 World Under-10 Champion,is the 12th youngest grandmaster in chess history."Congrats and welcome to @NihalSarin. The boys are on a roll! wrote Vishwanathan Anand.</string>
+
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+</resources>
